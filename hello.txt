@@ -1,3 +1,5 @@
 Rabi Bhat
 101513240
 Git repository created from AWS EC2 instance.
+
+This is the part 1 of the project.
